@@ -1,2 +1,3 @@
-# dados20261a
-Códigos da Disciplina Análise e Visualização 2026.1
+# Primeiro dashboard da Turma 2026.1
+
+teste de dashboard
